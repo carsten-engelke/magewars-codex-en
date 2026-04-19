@@ -1,0 +1,117 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+    margin: 10px;
+  }
+  
+  /* Add rounded corners to the top left and the top right corner of the image */
+  img {
+    border-radius: 5px 5px 0 0;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+ .container {
+    padding: 2px 16px;
+  }
+  * {box-sizing: border-box;}
+
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  h1 {
+      margin: 10px;
+  }
+
+  h5 {
+      color: darkgray;
+  }
+  
+  .topnav {
+    display: flex;
+    overflow: hidden;
+    background-color: #e9e9e9;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #2196F3;
+    color: white;
+  }
+  
+  .topnav .search-container {
+    display: flex;
+    float: right;
+    width: 100%;
+  }
+  
+  .topnav input[type=text] {
+    padding: 6px;
+    margin: 8px;
+    font-size: 17px;
+    border: none;
+    flex-grow: 1;
+  }
+  
+  .topnav .search-container button {
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .topnav .search-container button:hover {
+    background: #ccc;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .topnav {
+      display: inherit;
+    }
+    .topnav .search-container {
+      float: none;
+      display: inherit;
+    }
+    .topnav a, .topnav input[type=text], .topnav .search-container button {
+      float: none;
+      display: block;
+      text-align: left;
+      width: 100%;
+      margin: 0;
+      padding: 14px;
+    }
+    .topnav input[type=text] {
+      border: 1px solid #ccc;  
+    }
+  }

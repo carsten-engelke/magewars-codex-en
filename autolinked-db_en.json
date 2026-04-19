@@ -1,0 +1,2103 @@
+[
+    {
+        "image": null,
+        "title": " Zone",
+        "type": "Game term",
+        "text": "A zone is a square region in the arena used for movement, <a href='?q=object'>object</a> placement, and range determination.",
+        "title_link": [
+            " Zone"
+        ],
+        "title_EN": "Zone"
+    },
+    {
+        "image": null,
+        "title": "Activate",
+        "type": "Game term",
+        "text": "When you take an action phase with a <a href='?q=creature'>creature</a>, you <a href='?q=activate'>activate</a> it. ",
+        "title_link": [
+            "Activate",
+            "activate"
+        ],
+        "title_EN": "activate"
+    },
+    {
+        "image": null,
+        "title": "Alert",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> permanently guards, protects, and protects friendly <a href='?q=object'>object</a>s. ",
+        "title_link": [
+            "vigilant",
+            "Alert"
+        ],
+        "title_EN": "vigilant"
+    },
+    {
+        "image": null,
+        "title": "Anchored",
+        "type": "Object feature",
+        "text": "This <a href='?q=object'>object</a> has an extraordinary connection to the astral plane of Etheria and resists any attempt to magically transport it. ",
+        "title_link": [
+            "anchored",
+            "Anchored"
+        ],
+        "title_EN": "anchored"
+    },
+    {
+        "image": null,
+        "title": "Anger +X",
+        "type": "Object feature",
+        "text": "If this <a href='?q=creature'>creature</a> is wounded, it reacts extremely wildly and aggressively. ",
+        "title_link": [
+            "Fury",
+            "Anger +X"
+        ],
+        "title_EN": "rage +X"
+    },
+    {
+        "image": null,
+        "title": "Applied by the mage",
+        "type": "Magic feature",
+        "text": "This spell can only be used by a <a href='?q=mage'>mage</a>. ",
+        "title_link": [
+            "Applied by the mage",
+            "used by the mage"
+        ],
+        "title_EN": "magecast"
+    },
+    {
+        "image": null,
+        "title": "Armor +/-X",
+        "type": "Object feature",
+        "text": "Modifies an <a href='?q=armor'>armor</a> attribute by +/- X. Armor can never fall below 0.",
+        "title_link": [
+            "Armor +/-X",
+            "Armor +",
+            "Armor -"
+        ],
+        "title_EN": "armor +/-X"
+    },
+    {
+        "image": null,
+        "title": "Attack action",
+        "type": "Game term",
+        "text": "An <a href='?q=attack'>attack</a> action is a quick or full <a href='?q=creature'>creature</a> action to make an <a href='?q=attack'>attack</a>. <br>Some <a href='?q=attack'>attack</a>s, such as <a href='?q=counter'>counter</a>strike, wall <a href='?q=attack'>attack</a>s, or <a href='?q=summon'>summon</a>s, do not consume their own action. ",
+        "title_link": [
+            "Attack action"
+        ],
+        "title_EN": "attack action"
+    },
+    {
+        "image": "AttackOnPassage.png",
+        "title": "Attack on passage",
+        "type": "Object feature",
+        "text": "Any <a href='?q=creature'>creature</a>s that move through such a wall are automatically <a href='?q=attack'>attack</a>ed by that wall. ",
+        "title_link": [
+            "Attack on passage"
+        ],
+        "title_EN": "passage attacks"
+    },
+    {
+        "image": null,
+        "title": "Attack spells",
+        "type": "Game term",
+        "text": "<a href='?q=Attack spells'>Attack spells</a> allow the user to <a href='?q=attack'>attack</a> a target in the arena. ",
+        "title_link": [
+            "Attack spells"
+        ],
+        "title_EN": "attack spell"
+    },
+    {
+        "image": null,
+        "title": "Bleeding",
+        "type": "Condition tiles",
+        "text": "This <a href='?q=creature'>creature</a> has suffered a deep, <a href='?q=bleeding'>bleeding</a> wound. ",
+        "title_link": [
+            "Bleeding",
+            "bleeding"
+        ],
+        "title_EN": "bleed"
+    },
+    {
+        "image": "BlockedSL.png",
+        "title": "Blocks Line of Sight (SL)",
+        "type": "Object feature",
+        "text": "This wall blocks line of sight (SL). ",
+        "title_link": [
+            "Blocks line of sight",
+            "Blocks Line of Sight (SL)"
+        ],
+        "title_EN": "blocks Line of Sight"
+    },
+    {
+        "image": null,
+        "title": "Bloodthirsty +X",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> is a fierce predator with a thirst for blood. ",
+        "title_link": [
+            "Bloodthirsty +X",
+            "Bloodthirsty",
+            "bloodthirsty"
+        ],
+        "title_EN": "bloodthirsty +X"
+    },
+    {
+        "image": null,
+        "title": "Canceled, canceled",
+        "type": "Game term",
+        "text": "When a spell, <a href='?q=attack'>attack</a>, or <a href='?q=effect'>effect</a> is <a href='?q=canceled'>canceled</a> or <a href='?q=canceled'>canceled</a>, it stops and has no further <a href='?q=effect'>effect</a>.",
+        "title_link": [
+            "Aborted",
+            "Lifted",
+            "canceled",
+            "lifted"
+        ],
+        "title_EN": "cancel"
+    },
+    {
+        "image": null,
+        "title": "Care of X",
+        "type": "Object feature",
+        "text": "All <a href='?q=attack'>attack</a>s against this <a href='?q=object'>object</a> have X fewer <a href='?q=attack'>attack</a> dice. ",
+        "title_link": [
+            "care",
+            "Care of X"
+        ],
+        "title_EN": "aegis"
+    },
+    {
+        "image": null,
+        "title": "Climb",
+        "type": "Object feature",
+        "text": "The <a href='?q=creature'>creature</a> can take a special full action to <a href='?q=climb'>climb</a> over any physical wall and move into the adjacent zone. ",
+        "title_link": [
+            "Climb",
+            "climb"
+        ],
+        "title_EN": "climbing"
+    },
+    {
+        "image": null,
+        "title": "Clumsy",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> is clumsy and/or limps. ",
+        "title_link": [
+            "cumbersome",
+            "Clumsy"
+        ],
+        "title_EN": "lumbering"
+    },
+    {
+        "image": "FullAction.png",
+        "title": "Complete action",
+        "type": "Game term",
+        "text": "If a creature does not take a move action in its action phase, it may take a full action.  <img src='VollstandigeAktion.png'>).<br>PERFORM FULL ATTACK<br> Your <a href='?q=creature'>creature</a> can use an <a href='?q=attack'>attack</a> from its card that has the full action symbol. <br>USE FULL SPELL<br> A <a href='?q=creature'>creature</a> with the ability to use spells (such as your mage or a familiar) can use a spell with the full action symbol. <br>PERFORM SPECIAL FULL ACTION<br> Some <a href='?q=creature'>creature</a>s have a special action they can perform. ",
+        "title_link": [
+            "Complete action",
+            "complete action"
+        ],
+        "title_EN": "full action"
+    },
+    {
+        "image": null,
+        "title": "Complete magic",
+        "type": "Game term",
+        "text": "A full spell requires a full action to cast.  <img src='VollstandigeAktion.png'> on its <a href='?q=effect'>effect</a> bar, just to the right of its casting cost.",
+        "title_link": [
+            "complete spell",
+            "Complete magic"
+        ],
+        "title_EN": "full spell"
+    },
+    {
+        "image": null,
+        "title": "Condition and effect",
+        "type": "Game term",
+        "text": "Objects can take on different states, indicated by tiles placed on the <a href='?q=object'>object</a>. <br>An <a href='?q=effect'>effect</a> is a short, immediate change in the target's status. <br>A condition lasts longer and is marked with a tile on the target. <br>All states can also exist multiple times on the same <a href='?q=object'>object</a>. <br>Most conditions can be removed in a specific way. ",
+        "title_link": [
+            "Condition",
+            "effect"
+        ],
+        "title_EN": "condition"
+    },
+    {
+        "image": null,
+        "title": "Confidant",
+        "type": "Object feature",
+        "text": "Familiars are <a href='?q=creature'>creature</a>s that can use spells. <br>If a familiar is under your control during the planning phase, you may choose one spell for each familiar to use during the round (in addition to the two spells for the mage). <br>When your familiar resolves its action phase, you can have it cast this spell. <br>The familiar is considered the caster of the spell for all rules purposes, including range, etc. The spells your familiar uses are under your control. If your familiar does not use its prepared spell, the spell goes back into your spellbook at the start of the next planning phase. ",
+        "title_link": [
+            "Confidant"
+        ],
+        "title_EN": "family"
+    },
+    {
+        "image": null,
+        "title": "Conservation +X",
+        "type": "Object feature",
+        "text": "This <a href='?q=object'>object</a>'s controller pays X mana during each maintenance phase, not the affected <a href='?q=creature'>creature</a>'s controller. ",
+        "title_link": [
+            "conservation",
+            "Conservation +X"
+        ],
+        "title_EN": "upkeep +X"
+    },
+    {
+        "image": null,
+        "title": "Counterattack",
+        "type": "Attack feature",
+        "text": "If a <a href='?q=creature'>creature</a> is the <a href='?q=defender'>defender</a> on a melee <a href='?q=attack'>attack</a>, and it has a melee <a href='?q=attack'>attack</a> as a swift action with the <a href='?q=counter'>counter</a>strike trait, it can use that <a href='?q=attack'>attack</a> against the <a href='?q=attack'>attack</a>er. <br>The <a href='?q=defender'>defender</a> can <a href='?q=counter'>counter</a><a href='?q=attack'>attack</a> even if the <a href='?q=attack'>attack</a>er's <a href='?q=attack'>attack</a> was \"un<a href='?q=successful'>successful</a>\". <br>A <a href='?q=creature'>creature</a> can make exactly one <a href='?q=counter'>counter</a>strike against each <a href='?q=creature'>creature</a> that <a href='?q=attack'>attack</a>ed it in melee (even if the <a href='?q=attack'>attack</a>er made more than one hit in the <a href='?q=attack'>attack</a>). <br>The <a href='?q=counter'>counter</a>strike can only be a single <a href='?q=quick action'>quick action</a> melee <a href='?q=attack'>attack</a>. <br>If the <a href='?q=defender'>defender</a> is <a href='?q=destroyed'>destroyed</a> by the <a href='?q=attack'>attack</a>, he cannot <a href='?q=counter'>counter</a><a href='?q=attack'>attack</a>.<br>Example: The Darkfenne Hydra has an <a href='?q=attack'>attack</a> with the <a href='?q=counter'>counter</a>strike trait. <br>A <a href='?q=counter'>counter</a>strike follows the normal <a href='?q=attack'>attack</a> sequence, starting with Step 1: Declare Attack. ",
+        "title_link": [
+            "Counterattack"
+        ],
+        "title_EN": "counterstrike"
+    },
+    {
+        "image": null,
+        "title": "Counterattack",
+        "type": "Game term",
+        "text": "A spell that is <a href='?q=counter'>counter</a>ed cannot be cast. ",
+        "title_link": [
+            "Counterattack",
+            "counter"
+        ],
+        "title_EN": "counter"
+    },
+    {
+        "image": null,
+        "title": "Covenant of Life +X",
+        "type": "Object feature",
+        "text": "During the maintenance phase, you may either shift X damage from your mage to this <a href='?q=object'>object</a> or from this <a href='?q=object'>object</a> to your mage, regardless of distance and line of sight (SL). ",
+        "title_link": [
+            "Covenant of life",
+            "Covenant of Life +X"
+        ],
+        "title_EN": "lifebond +X"
+    },
+    {
+        "image": "ConcealedEnchantment.png",
+        "title": "Covert enchantment",
+        "type": "Game term",
+        "text": "All <a href='?q=enchantment'>enchantment</a>s are applied face down and remain unrecognizable to your opponent. ",
+        "title_link": [
+            "hidden enchantment",
+            "Covert enchantment"
+        ],
+        "title_EN": "hidden enchantment"
+    },
+    {
+        "image": "Crippled.png",
+        "title": "Crippled",
+        "type": "Condition tiles",
+        "text": "This is a toxic condition. ",
+        "title_link": [
+            "crippled",
+            "Crippled"
+        ],
+        "title_EN": "cripple"
+    },
+    {
+        "image": null,
+        "title": "Critical damage",
+        "type": "Game term",
+        "text": "<a href='?q=Critical damage'>Critical damage</a> bypasses <a href='?q=armor'>armor</a> (this does not reduce damage taken). ",
+        "title_link": [
+            "Critical damage",
+            "critical damage"
+        ],
+        "title_EN": "critical damage"
+    },
+    {
+        "image": null,
+        "title": "Curbed",
+        "type": "Object feature",
+        "text": "If a <a href='?q=creature'>creature</a> has the restrained trait, it cannot take movement actions. ",
+        "title_link": [
+            "Curbed",
+            "curbed"
+        ],
+        "title_EN": "restrained"
+    },
+    {
+        "image": "Damage barrier.png",
+        "title": "Damage barrier",
+        "type": "Object feature",
+        "text": "A damage barrier surrounds an <a href='?q=object'>object</a> and performs an automatic <a href='?q=attack'>attack</a> against any enemy that melee <a href='?q=attack'>attack</a>s an <a href='?q=object'>object</a> surrounded by such a barrier.<br>A damage barrier gives the <a href='?q=defender'>defender</a> a “free” auto <a href='?q=attack'>attack</a> against any <a href='?q=defender'>defender</a> who made a <a href='?q=successful'>successful</a> melee <a href='?q=attack'>attack</a> on them. <br>A damage barrier can <a href='?q=attack'>attack</a> each <a href='?q=attack'>attack</a>er once per round. <br>Note: A damage barrier only works against melee <a href='?q=attack'>attack</a>s. <br><a href='?q=Damage barrier'>Damage barrier</a>s work automatically and do not require an action to be used. <br>Important: Each <a href='?q=object'>object</a> can only be <a href='?q=protected'>protected</a> by one damage barrier. ",
+        "title_link": [
+            "Damage barrier"
+        ],
+        "title_EN": "damage barrier"
+    },
+    {
+        "image": null,
+        "title": "Damage type (+/-X)",
+        "type": "Attack attribute",
+        "text": "Damage can be of a specific type. <br>Flame<img src='FlammenSchaden.png'><br>Water<img src='WasserSchaden.png'><br>Light<img src='LichtSchaden.png'><br>flash<img src='BlitzSchaden.png'><br>Poison<img src='GiftSchaden.png'><br>Supersensory<img src='UbersinnlichSchaden.png'><br>wind<img src='WindSchaden.png'><br>frost<img src='FrostSchaden.png'><br>. <br>Same damage type modifiers are added together. ",
+        "title_link": [
+            "Damage type",
+            "Damage type +/-X",
+            "Type of damage -",
+            "Damage type +"
+        ],
+        "title_EN": "damage type"
+    },
+    {
+        "image": null,
+        "title": "Darkened",
+        "type": "Object feature",
+        "text": "This <a href='?q=object'>object</a> is difficult to see. ",
+        "title_link": [
+            "darkened",
+            "Darkened"
+        ],
+        "title_EN": "obscured"
+    },
+    {
+        "image": null,
+        "title": "Defrost",
+        "type": "Attack feature",
+        "text": "This is a feature of flame <a href='?q=attack'>attack</a>s. ",
+        "title_link": [
+            "Defrost",
+            "defrost"
+        ],
+        "title_EN": "defrost"
+    },
+    {
+        "image": null,
+        "title": "Destroyed",
+        "type": "Game term",
+        "text": "A <a href='?q=destroyed'>destroyed</a> <a href='?q=object'>object</a> is removed from play and placed in its owner's discard pile. ",
+        "title_link": [
+            "destroyed",
+            "Destroyed"
+        ],
+        "title_EN": "destroyed"
+    },
+    {
+        "image": null,
+        "title": "Devour",
+        "type": "Attack feature",
+        "text": "This <a href='?q=creature'>creature</a> eats other <a href='?q=creature'>creature</a>s! ",
+        "title_link": [
+            "devour",
+            "Devour"
+        ],
+        "title_EN": "devour"
+    },
+    {
+        "image": null,
+        "title": "Direct damage",
+        "type": "Game term",
+        "text": "Damage the <a href='?q=creature'>creature</a> takes immediately. ",
+        "title_link": [
+            "Direct damage",
+            "direct damage"
+        ],
+        "title_EN": "direct damage"
+    },
+    {
+        "image": null,
+        "title": "Discard pile",
+        "type": "Game term",
+        "text": "Each <a href='?q=mage'>mage</a> has his own discard pile. ",
+        "title_link": [
+            "Discard pile"
+        ],
+        "title_EN": "discard pile"
+    },
+    {
+        "image": null,
+        "title": "Disembodied",
+        "type": "Object feature",
+        "text": "An insubstantial, amorphous <a href='?q=object'>object</a> that is almost impervious to damage. ",
+        "title_link": [
+            "Disembodied",
+            "disembodied"
+        ],
+        "title_EN": "incorporeal"
+    },
+    {
+        "image": "Disposal costs.png",
+        "title": "Disposal costs",
+        "type": "Game term",
+        "text": "Most states have a removal cost, printed on the tile as a small black number in a gray dot. ",
+        "title_link": [
+            "Disposal costs"
+        ],
+        "title_EN": "removal cost"
+    },
+    {
+        "image": "Dizzy.png",
+        "title": "Dizzy",
+        "type": "Condition tiles",
+        "text": "The <a href='?q=creature'>creature</a> is disoriented and/or blinded. ",
+        "title_link": [
+            "Dizzy",
+            "dizzy"
+        ],
+        "title_EN": "daze"
+    },
+    {
+        "image": null,
+        "title": "Double whammy",
+        "type": "Attack feature",
+        "text": "This <a href='?q=attack'>attack</a> makes a second <a href='?q=attack'>attack</a> against the same target as part of the same <a href='?q=attack'>attack</a> action. ",
+        "title_link": [
+            "Double whammy"
+        ],
+        "title_EN": "double strike"
+    },
+    {
+        "image": null,
+        "title": "Dwindling X",
+        "type": "Object feature",
+        "text": "Objects with Fading X only last a short moment before disappearing. ",
+        "title_link": [
+            "Dwindling X",
+            "Dwindling",
+            "dwindling"
+        ],
+        "title_EN": "dissipate X"
+    },
+    {
+        "image": "Effect cube.png",
+        "title": "Effect dice",
+        "type": "Game term",
+        "text": "The 12-sided die (also: D12) is called the <a href='?q=effect'>effect</a> die; ",
+        "title_link": [
+            "Effect dice"
+        ],
+        "title_EN": "effect the"
+    },
+    {
+        "image": null,
+        "title": "Epic",
+        "type": "Magic feature",
+        "text": "Only 1 copy of this spell can be in a <a href='?q=mage'>mage</a>'s spellbook.",
+        "title_link": [
+            "Epic",
+            "epic"
+        ],
+        "title_EN": "epic"
+    },
+    {
+        "image": null,
+        "title": "Equipment (spells)",
+        "type": "Game term",
+        "text": "Equip spells give your mage new or stronger abilities. ",
+        "title_link": [
+            "equipment",
+            "Equipment (spells)"
+        ],
+        "title_EN": "equipment"
+    },
+    {
+        "image": null,
+        "title": "Ethereal",
+        "type": "Attack feature",
+        "text": "This <a href='?q=attack'>attack</a> is magically enhanced. ",
+        "title_link": [
+            "Ethereal",
+            "ethereal"
+        ],
+        "title_EN": "ethereal"
+    },
+    {
+        "image": null,
+        "title": "Evasive",
+        "type": "Object feature",
+        "text": "Such a <a href='?q=creature'>creature</a> is <a href='?q=fast'>fast</a> and cunning. ",
+        "title_link": [
+            "Evasive",
+            "evasive"
+        ],
+        "title_EN": "elusive"
+    },
+    {
+        "image": null,
+        "title": "Fast",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> can take 2 move actions before taking a swift action. ",
+        "title_link": [
+            "fast",
+            "Fast"
+        ],
+        "title_EN": "almost"
+    },
+    {
+        "image": null,
+        "title": "Fireproof",
+        "type": "Object feature",
+        "text": "The <a href='?q=object'>object</a> can never be set <a href='?q=on fire'>on fire</a>. ",
+        "title_link": [
+            "Fireproof",
+            "fireproof"
+        ],
+        "title_EN": "burnproof"
+    },
+    {
+        "image": "FlameDamage.png",
+        "title": "Flames +/-X",
+        "type": "Attack feature",
+        "text": "A type of damage. ",
+        "title_link": [
+            "Flame",
+            "Flames +/-X"
+        ],
+        "title_EN": "flame"
+    },
+    {
+        "image": "LightningDamage.png",
+        "title": "Flash +/-X",
+        "type": "Attack feature",
+        "text": "A type of damage. ",
+        "title_link": [
+            "flash",
+            "Flash +/-X"
+        ],
+        "title_EN": "lightning"
+    },
+    {
+        "image": null,
+        "title": "Fly",
+        "type": "Object feature",
+        "text": "<a href='?q=Fly'>Fly</a>ing <a href='?q=creature'>creature</a>s <a href='?q=fly'>fly</a> over the field and can only be reached with a long-range <a href='?q=attack'>attack</a>. <br>Non-<a href='?q=fly'>fly</a>ing <a href='?q=creature'>creature</a>s cannot make melee <a href='?q=attack'>attack</a>s against a <a href='?q=fly'>fly</a>ing <a href='?q=creature'>creature</a> unless they have the reach trait. <br>Creatures with the <a href='?q=fly'>fly</a> trait and those without the <a href='?q=fly'>fly</a> trait do not <a href='?q=restrict'>restrict</a> each other's movement. <br>When a <a href='?q=fly'>fly</a>ing <a href='?q=creature'>creature</a> makes a melee <a href='?q=attack'>attack</a> against a non-<a href='?q=fly'>fly</a>ing <a href='?q=creature'>creature</a>, it loses the <a href='?q=Fly'>Fly</a>ing trait until the end of the <a href='?q=attack'>attack</a> action and is affected by damage barriers and <a href='?q=counter'>counter</a>strikes as normal (the <a href='?q=fly'>fly</a>ing <a href='?q=creature'>creature</a> must dive from the air to the ground to make the <a href='?q=attack'>attack</a>).<br>A <a href='?q=creature'>creature</a> cannot gain or lose the <a href='?q=fly'>fly</a>ing trait during an <a href='?q=attack'>attack</a> action. <br>A <a href='?q=fly'>fly</a>ing <a href='?q=creature'>creature</a> is affected by guards when it makes a melee <a href='?q=attack'>attack</a>, but only when it <a href='?q=attack'>attack</a>s a non-<a href='?q=fly'>fly</a>ing <a href='?q=creature'>creature</a> in the guard's zone. <br>A <a href='?q=creature'>creature</a> may <a href='?q=ignore'>ignore</a> the minimum range of the <a href='?q=attack'>attack</a> when making a ranged <a href='?q=attack'>attack</a> against an <a href='?q=object'>object</a> in the same zone if either the <a href='?q=attack'>attack</a>er or the <a href='?q=defender'>defender</a> (or both) have the <a href='?q=fly'>fly</a> trait.",
+        "title_link": [
+            "Fly",
+            "fly"
+        ],
+        "title_EN": "flying"
+    },
+    {
+        "image": null,
+        "title": "Formula (spell)",
+        "type": "Game term",
+        "text": "Formula spells only have a short-term <a href='?q=effect'>effect</a> on the game. ",
+        "title_link": [
+            "Formula (spell)",
+            "formula"
+        ],
+        "title_EN": "incantation"
+    },
+    {
+        "image": null,
+        "title": "Friends",
+        "type": "Game term",
+        "text": "A friendly <a href='?q=object'>object</a> is one that is currently controlled by the player themselves, or (in multi-player games) by a player on their team.",
+        "title_link": [
+            "Friends",
+            "friends"
+        ],
+        "title_EN": "friendly"
+    },
+    {
+        "image": "FrostDamage.png",
+        "title": "Frost +/-X",
+        "type": "Attack feature",
+        "text": "A type of damage. ",
+        "title_link": [
+            "Frost +/-X",
+            "frost"
+        ],
+        "title_EN": "frost"
+    },
+    {
+        "image": null,
+        "title": "Frozen",
+        "type": "Condition tiles",
+        "text": "A <a href='?q=creature'>creature</a> with a <a href='?q=Frozen'>Frozen</a> token rolls one die less for non-spell <a href='?q=attack'>attack</a>s and becomes <a href='?q=cumbersome'>cumbersome</a>. ",
+        "title_link": [
+            "Frozen",
+            "frozen"
+        ],
+        "title_EN": "freeze"
+    },
+    {
+        "image": null,
+        "title": "Grab hold",
+        "type": "effect",
+        "text": "This <a href='?q=attack'>attack</a> can grab <a href='?q=creature'>creature</a>s and drag them into your zone. ",
+        "title_link": [
+            "Grab hold",
+            "seize"
+        ],
+        "title_EN": "grapple"
+    },
+    {
+        "image": null,
+        "title": "Higher creature",
+        "type": "Game term",
+        "text": "A <a href='?q=creature'>creature</a> of <a href='?q=level'>level</a> 3 or higher. ",
+        "title_link": [
+            "Higher creature",
+            "higher creature"
+        ],
+        "title_EN": "major creature"
+    },
+    {
+        "image": null,
+        "title": "Higher magic",
+        "type": "Game term",
+        "text": "A <a href='?q=level'>level</a> 3 or higher spell. ",
+        "title_link": [
+            "Higher magic",
+            "higher magic"
+        ],
+        "title_EN": "major"
+    },
+    {
+        "image": null,
+        "title": "Hit",
+        "type": "Game term",
+        "text": "When an <a href='?q=attack'>attack</a> reaches the Damage & Effects step, it counts as a hit relative to its target. ",
+        "title_link": [
+            "Hit"
+        ],
+        "title_EN": "hit"
+    },
+    {
+        "image": null,
+        "title": "Ichthellid larva",
+        "type": "Condition tiles",
+        "text": "A <a href='?q=creature'>creature</a> with these condition tokens has an ichthellid larva implanted into it. ",
+        "title_link": [
+            "Ichthellid larva"
+        ],
+        "title_EN": "ichhellid larva"
+    },
+    {
+        "image": null,
+        "title": "Ignore",
+        "type": "Game term",
+        "text": "An <a href='?q=ignore'>ignore</a>d enemy <a href='?q=creature'>creature</a> cannot <a href='?q=restrict'>restrict</a> the movement of friendly <a href='?q=creature'>creature</a>s. ",
+        "title_link": [
+            "Ignore",
+            "ignore"
+        ],
+        "title_EN": "ignore"
+    },
+    {
+        "image": null,
+        "title": "Immobile",
+        "type": "Object feature",
+        "text": "The <a href='?q=object'>object</a> cannot be pushed. ",
+        "title_link": [
+            "immobile",
+            "Immobile"
+        ],
+        "title_EN": "unmovable"
+    },
+    {
+        "image": null,
+        "title": "Immune to Psychic",
+        "type": "Object feature",
+        "text": "This <a href='?q=object'>object</a> either has immensely powerful spiritual gifts or none at all. ",
+        "title_link": [
+            "Immune to Psychic",
+            "immune to supernatural"
+        ],
+        "title_EN": "psychological immunity"
+    },
+    {
+        "image": null,
+        "title": "Immune to poison",
+        "type": "Object feature",
+        "text": "Non-living <a href='?q=creature'>creature</a>s are <a href='?q=immune to poison'>immune to poison</a>. ",
+        "title_link": [
+            "Immune to poison",
+            "immune to poison"
+        ],
+        "title_EN": "poison immunity"
+    },
+    {
+        "image": null,
+        "title": "Inactive",
+        "type": "Condition tiles",
+        "text": "<a href='?q=Inactive'>Inactive</a> is a state that temporarily suspends the function of an <a href='?q=object'>object</a>. ",
+        "title_link": [
+            "Inactive",
+            "inactive"
+        ],
+        "title_EN": "disable"
+    },
+    {
+        "image": null,
+        "title": "Incapacitated",
+        "type": "effect",
+        "text": "An <a href='?q=incapacitated'>incapacitated</a> <a href='?q=creature'>creature</a> cannot perform any actions, including moving, <a href='?q=attack'>attack</a>ing, guarding, using spells, or <a href='?q=counter'>counter</a>striking. ",
+        "title_link": [
+            "Incapacitated",
+            "incapacitated"
+        ],
+        "title_EN": "incapacitated"
+    },
+    {
+        "image": null,
+        "title": "Indestructible",
+        "type": "Object feature",
+        "text": "This <a href='?q=object'>object</a> is incredibly resilient when it comes to damage. ",
+        "title_link": [
+            "indestructible",
+            "Indestructible"
+        ],
+        "title_EN": "resilient"
+    },
+    {
+        "image": null,
+        "title": "Indestructible",
+        "type": "Object feature",
+        "text": "This <a href='?q=object'>object</a> cannot be damaged or <a href='?q=destroyed'>destroyed</a> by damage. ",
+        "title_link": [
+            "indestructible",
+            "Indestructible"
+        ],
+        "title_EN": "indestructible"
+    },
+    {
+        "image": null,
+        "title": "Indirect",
+        "type": "Attack feature",
+        "text": "The Line of Sight (SL) of this ranged <a href='?q=attack'>attack</a> is not blocked by walls.",
+        "title_link": [
+            "Indirect",
+            "indirect"
+        ],
+        "title_EN": "indirectly"
+    },
+    {
+        "image": null,
+        "title": "Interception",
+        "type": "Object feature",
+        "text": "When this <a href='?q=creature'>creature</a> is on guard and a ranged <a href='?q=attack'>attack</a> targets a non-<a href='?q=fly'>fly</a>ing <a href='?q=object'>object</a> in the same zone, that <a href='?q=creature'>creature</a> may direct the ranged <a href='?q=attack'>attack</a> on itself, provided it is a legal target for that <a href='?q=attack'>attack</a>. ",
+        "title_link": [
+            "Interception",
+            "intercept"
+        ],
+        "title_EN": "intercept"
+    },
+    {
+        "image": null,
+        "title": "Invisible",
+        "type": "Object feature",
+        "text": "This <a href='?q=object'>object</a> is <a href='?q=invisible'>invisible</a> and cannot be targeted (there is no Line of Sight (SL) to this <a href='?q=object'>object</a>). ",
+        "title_link": [
+            "invisible",
+            "Invisible"
+        ],
+        "title_EN": "invisible"
+    },
+    {
+        "image": null,
+        "title": "Legendary",
+        "type": "Object feature",
+        "text": "Only 1 copy of this <a href='?q=object'>object</a> may be in play at a time. ",
+        "title_link": [
+            "Legendary",
+            "legendary"
+        ],
+        "title_EN": "legendary"
+    },
+    {
+        "image": null,
+        "title": "Lesser creature",
+        "type": "Game term",
+        "text": "A <a href='?q=level'>level</a> 1 or 2 creature. Differentiated from: <a href='?q=Higher creature'>Higher creature</a>.",
+        "title_link": [
+            "lower creature",
+            "Lesser creature"
+        ],
+        "title_EN": "minor creature"
+    },
+    {
+        "image": null,
+        "title": "Lesser magic",
+        "type": "Game term",
+        "text": "A <a href='?q=level'>level</a> 1 or 2 spell. Differentiated from: Higher Spell.",
+        "title_link": [
+            "lower magic",
+            "Lesser magic"
+        ],
+        "title_EN": "minor"
+    },
+    {
+        "image": "life.png",
+        "title": "Life",
+        "type": "Object attribute",
+        "text": "Creatures and <a href='?q=summon'>summon</a>s have a life attribute. ",
+        "title_link": [
+            "Life"
+        ],
+        "title_EN": "life"
+    },
+    {
+        "image": null,
+        "title": "Life +/-X",
+        "type": "Object feature",
+        "text": "The <a href='?q=object'>object</a> gains or loses X <a href='?q=live'>live</a>s. ",
+        "title_link": [
+            "Life +/-X",
+            "Life -",
+            "Life +"
+        ],
+        "title_EN": "life +/-X"
+    },
+    {
+        "image": null,
+        "title": "Lifelink +X",
+        "type": "Mage Trait",
+        "text": "This is a mage trait that can be used in team games. ",
+        "title_link": [
+            "Life coupling",
+            "Lifelink +X"
+        ],
+        "title_EN": "lifelink +X"
+    },
+    {
+        "image": "LightDamage.png",
+        "title": "Light +/-X",
+        "type": "Attack feature",
+        "text": "A type of damage. ",
+        "title_link": [
+            "Light",
+            "Light +/-X"
+        ],
+        "title_EN": "lightning"
+    },
+    {
+        "image": null,
+        "title": "Limited life",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> cannot be <a href='?q=heal'>heal</a>ed, regenerate, or gain life. ",
+        "title_link": [
+            "Limited life"
+        ],
+        "title_EN": "finite life"
+    },
+    {
+        "image": null,
+        "title": "Line of sight (SL)",
+        "type": "Game term",
+        "text": "To cast a spell or make an attack, you must have uninterrupted vision of the target (line of sight or SL for short). <br>When determining the range, you also need to check whether you have a free SL. <img src='SL.png'>",
+        "title_link": [
+            "Line of sight",
+            "Line of sight (SL)"
+        ],
+        "title_EN": "line of sight"
+    },
+    {
+        "image": null,
+        "title": "Live",
+        "type": "Object feature",
+        "text": "Living <a href='?q=object'>object</a>s can be <a href='?q=heal'>heal</a>ed, regenerated, and given life. ",
+        "title_link": [
+            "Live",
+            "live"
+        ],
+        "title_EN": "living"
+    },
+    {
+        "image": null,
+        "title": "Mage Binding +X",
+        "type": "Object feature",
+        "text": "Such an <a href='?q=enchantment'>enchantment</a> is not easily applicable to a <a href='?q=mage'>mage</a>. ",
+        "title_link": [
+            "Mage Binding",
+            "Mage Binding +X"
+        ],
+        "title_EN": "magebind +X"
+    },
+    {
+        "image": null,
+        "title": "Mage class",
+        "type": "Game term",
+        "text": "The <a href='?q=mage'>mage</a> class determines the skills of the <a href='?q=mage'>mage</a> played. ",
+        "title_link": [
+            "Mage class"
+        ],
+        "title_EN": "mage class"
+    },
+    {
+        "image": null,
+        "title": "Magic book",
+        "type": "Magic feature",
+        "text": "When you create your spell book, you will spend your <a href='?q=mage'>mage</a>'s spell points to purchase your desired spell cards. <br>If you want to put a spell from a school in which your mage was trained into your spellbook, you must pay spell points equal to that spell's <a href='?q=level'>level</a>. <br>Some <a href='?q=mage'>mage</a>s are enemies of certain schools. <br>Since each spell can only be used once during the game, you'll want to have multiple copies of important spells. ",
+        "title_link": [
+            "Magic book"
+        ],
+        "title_EN": "spellbook"
+    },
+    {
+        "image": null,
+        "title": "Magic source",
+        "type": "Object feature",
+        "text": "Objects with the Spell Source trait have the property that they can cast spells for you. <br>During the deployment phase, both players can cast these spells, starting with the player who has the <a href='?q=initiative'>initiative</a>. <br>Most spell sources also have a mana gathering attribute, meaning they generate their own mana during the mana gathering phase. <br>Spell Sources apply spells the same way your mage does, using the card's target and range. <br>Example: The Beastmaster has a dwelling with mana collection 2. In each mana collection phase he places 2 mana tiles on the dwelling. ",
+        "title_link": [
+            "Magic source"
+        ],
+        "title_EN": "spawnpoint"
+    },
+    {
+        "image": null,
+        "title": "Mana Transfer +X",
+        "type": "Attack feature",
+        "text": "Just like Mana Drain +X, with the following addition: Whoever controls this <a href='?q=attack'>attack</a> gains mana equal to the mana lost.",
+        "title_link": [
+            "Mana transfer",
+            "Mana Transfer +X"
+        ],
+        "title_EN": "mana transfer +X"
+    },
+    {
+        "image": "Mana collection.png",
+        "title": "Mana collection",
+        "type": "Object attribute",
+        "text": "Some <a href='?q=object'>object</a>s have the Mana Gathering attribute. ",
+        "title_link": [
+            "Mana collection"
+        ],
+        "title_EN": "channeling"
+    },
+    {
+        "image": null,
+        "title": "Mana collection +/-X",
+        "type": "Object feature",
+        "text": "Modifies a <a href='?q=creature'>creature</a>'s mana collection attribute by +/- X. <a href='?q=Mana collection'>Mana collection</a> can never fall below 0. ",
+        "title_link": [
+            "Mana collection +/-X",
+            "Mana collection +",
+            "mana collection -"
+        ],
+        "title_EN": "channeling +/-X"
+    },
+    {
+        "image": null,
+        "title": "Mana drain +X",
+        "type": "Attack feature",
+        "text": "If this <a href='?q=attack'>attack</a> deals damage to an opposing <a href='?q=creature'>creature</a>, the <a href='?q=creature'>creature</a>'s controller loses X mana from their mana pool (if they have any). ",
+        "title_link": [
+            "Mana drain",
+            "Mana drain +X"
+        ],
+        "title_EN": "mana drain +X"
+    },
+    {
+        "image": null,
+        "title": "Melee +X",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> gets +X <a href='?q=attack'>attack</a> dice when it makes a melee <a href='?q=attack'>attack</a>. ",
+        "title_link": [
+            "Close combat",
+            "Melee +X"
+        ],
+        "title_EN": "melee +X"
+    },
+    {
+        "image": "Melee Attack.png",
+        "title": "Melee attack",
+        "type": "Game term",
+        "text": "A close range <a href='?q=attack'>attack</a> that can only affect targets in the same zone. ",
+        "title_link": [
+            "Melee attack"
+        ],
+        "title_EN": "melee"
+    },
+    {
+        "image": null,
+        "title": "Melt X",
+        "type": "Object feature",
+        "text": "The <a href='?q=object'>object</a> <a href='?q=melt'>melt</a>s over time. ",
+        "title_link": [
+            "Melt",
+            "Melt X",
+            "melt"
+        ],
+        "title_EN": "melting"
+    },
+    {
+        "image": null,
+        "title": "More controlling",
+        "type": "Game term",
+        "text": "All spells or <a href='?q=object'>object</a>s in the game are controlled by the player who cast them. ",
+        "title_link": [
+            "More controlling"
+        ],
+        "title_EN": "controller"
+    },
+    {
+        "image": null,
+        "title": "Movement action",
+        "type": "Game term",
+        "text": "During its action phase, a <a href='?q=creature'>creature</a> can take a move action that allows it to move from one zone to an adjacent zone. <br>STEP 1: Announce Movement - Choose the zone you want the <a href='?q=creature'>creature</a> to move to. <br>STEP 2: Pay Costs - You must pay any costs associated with the movement. <br>STEP 3:<a href='?q= Zone'> Zone</a> Exit Effects - Any spells, abilities, or <a href='?q=effect'>effect</a>s that trigger when a <a href='?q=creature'>creature</a> leaves a zone now take place.<br>STEP 4: <a href='?q=Wall'>Wall</a>s - The <a href='?q=creature'>creature</a> now en<a href='?q=counter'>counter</a>s any walls in its path. <br>STEP 5: Movement - The <a href='?q=creature'>creature</a> must be moved to the new zone.<br>STEP 6:<a href='?q= Zone'> Zone</a> Enter Effects - Any spells, abilities, or <a href='?q=effect'>effect</a>s that trigger when a <a href='?q=creature'>creature</a> enters a zone now take place. <br>If a <a href='?q=creature'>creature</a> becomes unable to move during the move action, its movement stops at that exact moment and the remainder of the move action is forfeited. ",
+        "title_link": [
+            "Movement action"
+        ],
+        "title_EN": "move action"
+    },
+    {
+        "image": null,
+        "title": "Moving summoning",
+        "type": "Summons are attached to the zone they are in,",
+        "text": "however, some <a href='?q=incantation'>incantation</a>s can move (like Raincloud). ",
+        "title_link": [
+            "Moving summoning"
+        ],
+        "title_EN": "moving conjuration"
+    },
+    {
+        "image": null,
+        "title": "Multiple attack",
+        "type": "Game term",
+        "text": "Some <a href='?q=attack'>attack</a>s consist of multiple separate <a href='?q=attack'>attack</a>s against the same or different targets. ",
+        "title_link": [
+            "Multiple attack"
+        ],
+        "title_EN": "multiple attacks"
+    },
+    {
+        "image": null,
+        "title": "Not alive",
+        "type": "Object feature",
+        "text": "All non-living <a href='?q=creature'>creature</a>s have the traits Immune to <a href='?q=Poison'>Poison</a> and a Limited <a href='?q=Life'>Life</a>. ",
+        "title_link": [
+            "not alive",
+            "not alive",
+            "Not alive"
+        ],
+        "title_EN": "nonliving"
+    },
+    {
+        "image": null,
+        "title": "OR attacks",
+        "type": "Attack feature",
+        "text": "Some <a href='?q=attack'>attack</a>s have an OR in their <a href='?q=attack'>attack</a> bar. ",
+        "title_link": [
+            "OR attacks"
+        ],
+        "title_EN": "OR attacks"
+    },
+    {
+        "image": "InBrand.png",
+        "title": "On fire",
+        "type": "Condition tiles",
+        "text": "The <a href='?q=object'>object</a> is burning. ",
+        "title_link": [
+            "On fire",
+            "on fire"
+        ],
+        "title_EN": "burn"
+    },
+    {
+        "image": null,
+        "title": "Only for X mages",
+        "type": "Magic feature",
+        "text": "Some spells are <a href='?q=restricted'>restricted</a> to certain mage classes. ",
+        "title_link": [
+            "only for mages",
+            "For mages only"
+        ],
+        "title_EN": "mage only"
+    },
+    {
+        "image": null,
+        "title": "Onslaught +X",
+        "type": "Attack or object characteristic",
+        "text": "The <a href='?q=creature'>creature</a> gets +X <a href='?q=attack'>attack</a> dice for its immediate next melee <a href='?q=attack'>attack</a> if it makes that <a href='?q=attack'>attack</a> immediately after a move action in which it moved at least 1 zone.",
+        "title_link": [
+            "Rush",
+            "Onslaught +X"
+        ],
+        "title_EN": "batch"
+    },
+    {
+        "image": null,
+        "title": "Opponent",
+        "type": "Game term",
+        "text": "Any enemy <a href='?q=object'>object</a> currently controlled by an enemy player.",
+        "title_link": [
+            "Opponent"
+        ],
+        "title_EN": "enemy"
+    },
+    {
+        "image": null,
+        "title": "Original life +X",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a>'s life force is higher than normal. ",
+        "title_link": [
+            "Original life +X",
+            "very own life",
+            "Original life"
+        ],
+        "title_EN": "innate life +X"
+    },
+    {
+        "image": null,
+        "title": "Owner",
+        "type": "Game term",
+        "text": "The owner of a spell is the player who had that spell in their spellbook at the start of the game.",
+        "title_link": [
+            "Owner"
+        ],
+        "title_EN": "controller"
+    },
+    {
+        "image": "PassageBlocked.png",
+        "title": "Passage blocked",
+        "type": "Object feature",
+        "text": "Creatures are not allowed to move through this wall. ",
+        "title_link": [
+            "Passage blocked"
+        ],
+        "title_EN": "passage blocked"
+    },
+    {
+        "image": null,
+        "title": "Penetrate +X",
+        "type": "Attack feature",
+        "text": "This <a href='?q=attack'>attack</a> subtracts X from the target's <a href='?q=armor'>armor</a> when determining damage. ",
+        "title_link": [
+            "Penetrate",
+            "Penetrate +X",
+            "penetrate"
+        ],
+        "title_EN": "piercing +X"
+    },
+    {
+        "image": null,
+        "title": "Physically",
+        "type": "Object feature",
+        "text": "Physical <a href='?q=object'>object</a>s are normal, physical <a href='?q=object'>object</a>s. ",
+        "title_link": [
+            "Physically",
+            "physically"
+        ],
+        "title_EN": "corporeal"
+    },
+    {
+        "image": null,
+        "title": "Plague",
+        "type": "Object feature",
+        "text": "A small, annoying <a href='?q=creature'>creature</a> that cannot hinder opponents. ",
+        "title_link": [
+            "Plague"
+        ],
+        "title_EN": "pest"
+    },
+    {
+        "image": "PoisonDamage.png",
+        "title": "Poison +/-X",
+        "type": "Damage type",
+        "text": "Some <a href='?q=attack'>attack</a>s have the poison trait. ",
+        "title_link": [
+            "Poison",
+            "Poison +/-X"
+        ],
+        "title_EN": "poison"
+    },
+    {
+        "image": null,
+        "title": "Prevention effects",
+        "type": "effect",
+        "text": "Some spells can prevent an event if certain costs are not paid. ",
+        "title_link": [
+            "Prevention effects"
+        ],
+        "title_EN": "prevention effects"
+    },
+    {
+        "image": null,
+        "title": "Protected",
+        "type": "Object feature",
+        "text": "This <a href='?q=object'>object</a> is <a href='?q=protected'>protected</a> from enemy magic. ",
+        "title_link": [
+            "Protected",
+            "protected"
+        ],
+        "title_EN": "warded"
+    },
+    {
+        "image": "SupersensoryDamage.png",
+        "title": "Psychic +/-X",
+        "type": "Attack feature",
+        "text": "A type of damage. ",
+        "title_link": [
+            "Supersensory",
+            "Psychic +/-X",
+            "supernatural"
+        ],
+        "title_EN": "lightning"
+    },
+    {
+        "image": null,
+        "title": "Push",
+        "type": "effect",
+        "text": "The <a href='?q=Push'>Push</a> <a href='?q=effect'>effect</a> is triggered by some spells and <a href='?q=attack'>attack</a>s that move the target to an adjacent zone. ",
+        "title_link": [
+            "Push",
+            "bumped",
+            "bump"
+        ],
+        "title_EN": "push"
+    },
+    {
+        "image": null,
+        "title": "Put out fire",
+        "type": "Attack feature",
+        "text": "This <a href='?q=attack'>attack</a> puts out fire. ",
+        "title_link": [
+            "Put out fire"
+        ],
+        "title_EN": "extinguish"
+    },
+    {
+        "image": null,
+        "title": "Quick action",
+        "type": "Game term",
+        "text": "In their action phase, <a href='?q=creature'>creature</a>s can take a move action followed by a swift action. <br>MORE MOTION ACTION<br> The acting <a href='?q=creature'>creature</a> moves 1 additional zone to an adjacent zone, according to normal movement rules. <br>PERFORM QUICK ATTACK<br>Your <a href='?q=creature'>creature</a> can make an <a href='?q=attack'>attack</a> from its card that has the Quick Action icon on it. <br>KEEP GUARD<br>The acting <a href='?q=creature'>creature</a> can choose to defend the zone it is in by keeping guard. <br>USE QUICK SPELL<br>A <a href='?q=creature'>creature</a> with the ability to cast spells (such as your mage or a familiar) can cast a spell that has the swift action symbol. <br>PERFORM SPECIAL QUICK ACTION<br>Some <a href='?q=creature'>creature</a>s have a special action they can perform. ",
+        "title_link": [
+            "quick action",
+            "Quick action"
+        ],
+        "title_EN": "quick action"
+    },
+    {
+        "image": "QuickcastPhase.png",
+        "title": "Quick cast action",
+        "type": "Game term",
+        "text": "Each mage can perform a special additional action per round, the quick cast action.  <br>A quick cast action is a special action that only a mage may perform during a round, in addition to his normal actions during his action phase.  <img src='SchnellerZauber.png'>). <br>- In the introductory quick cast phase<br>- Immediately before or after any of the <a href='?q=creature'>creature</a>s under your control resolve their action phase<br>- In the final quick cast phase<br>When you use your quick cast action, you turn over your quick cast stone and cast a <a href='?q=quick spell'>quick spell</a>. ",
+        "title_link": [
+            "Quick cast action"
+        ],
+        "title_EN": "quickcast action"
+    },
+    {
+        "image": "QuickcastPhase.png",
+        "title": "Quick cast phase",
+        "type": "Game term",
+        "text": "There is a quick cast phase at the beginning and end of each action <a href='?q=level'>level</a>. ",
+        "title_link": [
+            "Quick cast phase"
+        ],
+        "title_EN": "quickcast phase"
+    },
+    {
+        "image": "FasterMagic.png",
+        "title": "Quick spell",
+        "type": "Game term",
+        "text": "A quick spell requires a quick action to cast. <img src='SchnellerZauber.png'>)on its <a href='?q=effect'>effect</a> bar, directly to the right of its casting cost.",
+        "title_link": [
+            "quick spell",
+            "Quick spell"
+        ],
+        "title_EN": "quick spell"
+    },
+    {
+        "image": "Ranged Attack.png",
+        "title": "Ranged Attack +X",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> gets +X <a href='?q=attack'>attack</a> dice when making a ranged <a href='?q=attack'>attack</a>. ",
+        "title_link": [
+            "Ranged Attack +X",
+            "Ranged attack +"
+        ],
+        "title_EN": "ranged +X"
+    },
+    {
+        "image": null,
+        "title": "Ranged attack",
+        "type": "Attack attribute",
+        "text": "This <a href='?q=attack'>attack</a> can be used against targets within its shortest and farthest range, and when they are in line of sight. ",
+        "title_link": [
+            "Ranged attack"
+        ],
+        "title_EN": "ranged attack"
+    },
+    {
+        "image": null,
+        "title": "Ready",
+        "type": "Condition tiles",
+        "text": "The <a href='?q=Ready'>Ready</a> tiles are used to indicate when traits have been used. ",
+        "title_link": [
+            "Ready"
+        ],
+        "title_EN": "ready markers"
+    },
+    {
+        "image": null,
+        "title": "Reconstruct",
+        "type": "effect",
+        "text": "<a href='?q=Reconstruct'>Reconstruct</a> is an <a href='?q=effect'>effect</a> that removes damage from nonliving <a href='?q=creature'>creature</a>s. ",
+        "title_link": [
+            "reconstruct",
+            "Reconstruct"
+        ],
+        "title_EN": "reconstruct"
+    },
+    {
+        "image": null,
+        "title": "Regenerate X",
+        "type": "Object feature",
+        "text": "This <a href='?q=object'>object</a> <a href='?q=heal'>heal</a>s (takes away) X damage from itself during each maintenance phase. <br>Important: Only living <a href='?q=creature'>creature</a>s and <a href='?q=summon'>summon</a>s can be <a href='?q=heal'>heal</a>ed or regenerated. ",
+        "title_link": [
+            "Regenerate",
+            "Regenerate X"
+        ],
+        "title_EN": "regenerate X"
+    },
+    {
+        "image": null,
+        "title": "Restrict",
+        "type": "Game term",
+        "text": "A <a href='?q=creature'>creature</a> that begins its action phase in a zone with any enemy <a href='?q=creature'>creature</a> has its movement <a href='?q=restricted'>restricted</a> and can only move 1 zone in its action phase (even if it has the <a href='?q=Fast'>Fast</a> trait). ",
+        "title_link": [
+            "Restrict",
+            "restrict",
+            "restricted"
+        ],
+        "title_EN": "hinder"
+    },
+    {
+        "image": null,
+        "title": "Resuscitate",
+        "type": "effect",
+        "text": "This <a href='?q=creature'>creature</a> is resurrected from death. ",
+        "title_link": [
+            "resuscitate",
+            "Resuscitate"
+        ],
+        "title_EN": "resuscitate"
+    },
+    {
+        "image": "Reveal costs.png",
+        "title": "Reveal costs",
+        "type": "Magic attribute",
+        "text": "When you reveal a face-down <a href='?q=enchantment'>enchantment</a>, you turn its card face-up. <br>You can reveal an <a href='?q=enchantment'>enchantment</a> immediately after any step, phase, or action in the game:<br> - at the end of any phase of the game round.  <br> - immediately after a <a href='?q=creature'>creature</a> is <a href='?q=activate'>activate</a>d, before it chooses its actions this turn. <br> - immediately after a <a href='?q=creature'>creature</a> completes an action, such as an <a href='?q=attack'>attack</a>, movement, or <a href='?q=summon'>summon</a>ing a spell. <br> - at the end of each step of an <a href='?q=attack'>attack</a>, casting a spell, or moving. <br> - you can reveal an <a href='?q=enchantment'>enchantment</a> immediately after it is cast, right after the Cast Spell step.  <br> - you may not interrupt an event to reveal an <a href='?q=enchantment'>enchantment</a>. ",
+        "title_link": [
+            "Reveal costs"
+        ],
+        "title_EN": "reveal cost"
+    },
+    {
+        "image": null,
+        "title": "Rooted",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> is firmly <a href='?q=rooted'>rooted</a> in the ground. ",
+        "title_link": [
+            "Rooted",
+            "rooted"
+        ],
+        "title_EN": "rooted"
+    },
+    {
+        "image": "Rot.png",
+        "title": "Rot",
+        "type": "Condition tiles",
+        "text": "This is a toxic condition. ",
+        "title_link": [
+            "Rot"
+        ],
+        "title_EN": "red"
+    },
+    {
+        "image": null,
+        "title": "Round punch",
+        "type": "Attack feature",
+        "text": "This <a href='?q=attack'>attack</a> occurs in a wide, sweeping arc and can target and hit 2 different targets in the same zone. ",
+        "title_link": [
+            "Round punch"
+        ],
+        "title_EN": "sweeping"
+    },
+    {
+        "image": null,
+        "title": "Rusting",
+        "type": "Condition tiles",
+        "text": "<a href='?q=Rusting'>Rusting</a> is an acidic condition that eats away <a href='?q=armor'>armor</a>. ",
+        "title_link": [
+            "rusting",
+            "Rusting"
+        ],
+        "title_EN": "corrode"
+    },
+    {
+        "image": null,
+        "title": "Saving throw",
+        "type": "Game term",
+        "text": "Some conditions and <a href='?q=enchantment'>enchantment</a>s require a saving throw (using the <a href='?q=effect'>effect</a> die to determine whether they can be taken by the <a href='?q=creature'>creature</a> they are attached to.",
+        "title_link": [
+            "Saving throw"
+        ],
+        "title_EN": "escape roll"
+    },
+    {
+        "image": null,
+        "title": "School",
+        "type": "Game term",
+        "text": "There are six primary or \"high\" schools of magic: the Dark School <img src='DunkleSchule.png'><br>the spiritual school <img src='GeistesSchule.png'><br>the Holy School <img src='HeiligeSchule.png'><br>the Arcane School <img src='ArkaneSchule.png'><br>the nature school <img src='NaturSchule.png'><br>the war school <img src='KriegsSchule.png'><br>There are also four elementary or “minor” schools: <br>Earth School <img src='ErdSchule.png'><br>Air school <img src='LuftSchule.png'><br>Water school <img src='WasserSchule.png'><br>Fire school <img src='FeuerSchule.png'><br>The associated <a href='?q=mage'>mage</a>s are called fire <a href='?q=mage'>mage</a>s, war <a href='?q=mage'>mage</a>s, spiritual <a href='?q=mage'>mage</a>s, etc.",
+        "title_link": [
+            "School"
+        ],
+        "title_EN": "school"
+    },
+    {
+        "image": "Sleep.png",
+        "title": "Sleep",
+        "type": "Condition tiles",
+        "text": "This is a <a href='?q=supernatural'>supernatural</a> state. ",
+        "title_link": [
+            "sleep",
+            "Sleep"
+        ],
+        "title_EN": "sleep"
+    },
+    {
+        "image": null,
+        "title": "Slow",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> is very <a href='?q=slow'>slow</a>. ",
+        "title_link": [
+            "Slow",
+            "slow"
+        ],
+        "title_EN": "slowly"
+    },
+    {
+        "image": null,
+        "title": "Smashed",
+        "type": "Condition tiles",
+        "text": "The <a href='?q=creature'>creature</a> is <a href='?q=incapacitated'>incapacitated</a>. ",
+        "title_link": [
+            "Smashed",
+            "smashed"
+        ],
+        "title_EN": "slam"
+    },
+    {
+        "image": null,
+        "title": "Spellbind",
+        "type": "Object feature",
+        "text": "<a href='?q=Spellbind'>Spellbind</a> is a feature possessed by some <a href='?q=object'>object</a>s (most commonly equip spells). <br>When you cast a spell with the <a href='?q=Spellbind'>Spellbind</a> trait, you immediately bind a spell to it. <br>Bound <a href='?q=formula'>formula</a>s or <a href='?q=attack'>attack</a> spells are not discarded after being cast. <br>Some spell binding items allow you to swap the bound spell for another. <br>Example: You can bind any <a href='?q=formula'>formula</a> to the <a href='?q=mage'>mage</a>'s wand. ",
+        "title_link": [
+            "Spellbind"
+        ],
+        "title_EN": "spellbind"
+    },
+    {
+        "image": null,
+        "title": "Standalone",
+        "type": "Object feature",
+        "text": "This <a href='?q=equipment'>equipment</a> is attached to a <a href='?q=creature'>creature</a> and functions independently of the <a href='?q=creature'>creature</a>. ",
+        "title_link": [
+            "Standalone",
+            "standalone"
+        ],
+        "title_EN": "autonomous"
+    },
+    {
+        "image": null,
+        "title": "Struck",
+        "type": "Game term",
+        "text": "If a <a href='?q=creature'>creature</a> is pushed into a wall that was blocking the passage trait, it gains the battered trait. ",
+        "title_link": [
+            "Struck",
+            "struck"
+        ],
+        "title_EN": "bashed"
+    },
+    {
+        "image": null,
+        "title": "Stuck",
+        "type": "Condition tiles",
+        "text": "This <a href='?q=creature'>creature</a> gains the restrained and <a href='?q=immobile'>immobile</a> characteristics. ",
+        "title_link": [
+            "Stuck",
+            "stuck"
+        ],
+        "title_EN": "piece"
+    },
+    {
+        "image": "Tumbling.png",
+        "title": "Stumbling",
+        "type": "Condition tiles",
+        "text": "Staggering is a condition that disorients or unbalances a <a href='?q=creature'>creature</a>. ",
+        "title_link": [
+            "staggering",
+            "Stumbling"
+        ],
+        "title_EN": "stagger"
+    },
+    {
+        "image": "Stunned.png",
+        "title": "Stunned",
+        "type": "Condition tiles",
+        "text": "The <a href='?q=creature'>creature</a> is <a href='?q=incapacitated'>incapacitated</a>. ",
+        "title_link": [
+            "Stunned",
+            "stunned"
+        ],
+        "title_EN": "stun"
+    },
+    {
+        "image": null,
+        "title": "Successful",
+        "type": "Game term",
+        "text": "An <a href='?q=attack'>attack</a> is considered <a href='?q=successful'>successful</a> and a hit if it neither missed due to the <a href='?q=Dizzy'>Dizzy</a> condition nor was avoided by a <a href='?q=defense'>defense</a>.",
+        "title_link": [
+            "Successful",
+            "successful"
+        ],
+        "title_EN": "successful"
+    },
+    {
+        "image": null,
+        "title": "Summon",
+        "type": "Game term",
+        "text": "When you cast a <a href='?q=creature'>creature</a> spell, it is also called <a href='?q=summon'>summon</a>ing a <a href='?q=creature'>creature</a>.",
+        "title_link": [
+            "Summon",
+            "summon"
+        ],
+        "title_EN": "summon"
+    },
+    {
+        "image": null,
+        "title": "Taunt",
+        "type": "effect",
+        "text": "Some <a href='?q=creature'>creature</a>s can taunt their enemy into <a href='?q=attack'>attack</a>ing them. ",
+        "title_link": [
+            "Taunt",
+            "mock"
+        ],
+        "title_EN": "taunts"
+    },
+    {
+        "image": null,
+        "title": "Taunt (Skeelax's Taunt)",
+        "type": "effect",
+        "text": "Skeelax is a special <a href='?q=creature'>creature</a> that taunts his enemies into <a href='?q=attack'>attack</a>ing him. ",
+        "title_link": [
+            "Skeelax's taunt"
+        ],
+        "title_EN": "Skeelax' taunts"
+    },
+    {
+        "image": "Mocked.png",
+        "title": "Taunt (Sosrukos' Taunt)",
+        "type": "effect",
+        "text": "This is a special condition that can arise from the <a href='?q=attack'>attack</a> of certain <a href='?q=creature'>creature</a>s (in the base game: Sosruko, Ferret Familiar). ",
+        "title_link": [
+            "Sosrukos' taunt"
+        ],
+        "title_EN": "Sosruko's taunts"
+    },
+    {
+        "image": null,
+        "title": "Taunt (Thorg's Taunt)",
+        "type": "Condition tiles",
+        "text": "Thorg, head of the bodyguard, can taunt his enemies. ",
+        "title_link": [
+            "Thorg's taunt"
+        ],
+        "title_EN": "Thorg's taunts"
+    },
+    {
+        "image": null,
+        "title": "Teleportation",
+        "type": "effect",
+        "text": "An <a href='?q=effect'>effect</a> that moves an <a href='?q=object'>object</a> directly to another zone, ignoring walls and <a href='?q=object'>object</a>s.",
+        "title_link": [
+            "Teleportation"
+        ],
+        "title_EN": "teleport"
+    },
+    {
+        "image": null,
+        "title": "Tendrils",
+        "type": "game tiles",
+        "text": "The vine tiles are living <a href='?q=summon'>summon</a>s with life force 1, no <a href='?q=armor'>armor</a>, and they cannot receive <a href='?q=armor'>armor</a>. ",
+        "title_link": [
+            "Tendrils"
+        ],
+        "title_EN": "vine markers"
+    },
+    {
+        "image": null,
+        "title": "To reach",
+        "type": "Attack feature",
+        "text": "This melee <a href='?q=attack'>attack</a> can target and <a href='?q=attack'>attack</a> <a href='?q=fly'>fly</a>ing <a href='?q=creature'>creature</a>s in the same zone.",
+        "title_link": [
+            "To reach",
+            "to reach"
+        ],
+        "title_EN": "reach"
+    },
+    {
+        "image": null,
+        "title": "Tough -X",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> is tough and resists the <a href='?q=effect'>effect</a>s of <a href='?q=attack'>attack</a>s. ",
+        "title_link": [
+            "Tough",
+            "Tough -X"
+        ],
+        "title_EN": "tough -X"
+    },
+    {
+        "image": null,
+        "title": "Training",
+        "type": "Game term",
+        "text": "Your <a href='?q=mage'>mage</a> is trained in one or more schools of magic. <br>If you take a spell from a school in which your <a href='?q=mage'>mage</a> is not trained, you must pay spell points equal to twice the <a href='?q=level'>level</a> of that spell.<br>Some spells belong to more than one school of magic. <br>Some spells belong to multiple schools and have an \"&\" symbol connecting those schools. <br>Some <a href='?q=mage'>mage</a>s are enemies of certain schools. <br>Example: The Beastmaster is trained in natural magic. <br>Since each spell can only be used once during the game, you'll want to have multiple copies of important spells. ",
+        "title_link": [
+            "Training"
+        ],
+        "title_EN": "training"
+    },
+    {
+        "image": null,
+        "title": "Triple strike (triple strike)",
+        "type": "Attack feature",
+        "text": "This <a href='?q=attack'>attack</a> makes two additional <a href='?q=attack'>attack</a>s against the same target as part of the same <a href='?q=attack'>attack</a> action. ",
+        "title_link": [
+            "Triple strike",
+            "triple blow"
+        ],
+        "title_EN": "triplestrike"
+    },
+    {
+        "image": null,
+        "title": "Unavoidable",
+        "type": "Attack feature",
+        "text": "Defenses cannot be used to avoid the <a href='?q=attack'>attack</a>. ",
+        "title_link": [
+            "unavoidable",
+            "Unavoidable"
+        ],
+        "title_EN": "unavoidable"
+    },
+    {
+        "image": null,
+        "title": "Unclean",
+        "type": "Condition tiles",
+        "text": "This curse or poison <a href='?q=attack'>attack</a> causes an <a href='?q=unclean'>unclean</a> or infected wound that will not <a href='?q=heal'>heal</a>. ",
+        "title_link": [
+            "unclean",
+            "Unclean"
+        ],
+        "title_EN": "tainted"
+    },
+    {
+        "image": null,
+        "title": "Unique",
+        "type": "Object feature",
+        "text": "Each player may have a maximum of 1 copy of this <a href='?q=object'>object</a> in play at a time. ",
+        "title_link": [
+            "Unique",
+            "unique"
+        ],
+        "title_EN": "unique"
+    },
+    {
+        "image": null,
+        "title": "Unstoppable",
+        "type": "Object feature",
+        "text": "This Krature is exceptionally large, heavy and/or strong, possibly animated by powerful magic. ",
+        "title_link": [
+            "unstoppable",
+            "Unstoppable"
+        ],
+        "title_EN": "unstoppable"
+    },
+    {
+        "image": null,
+        "title": "Untenable",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> has a smooth and/or amorphous body, making it difficult to capture. ",
+        "title_link": [
+            "untenable",
+            "Untenable"
+        ],
+        "title_EN": "uncontainable"
+    },
+    {
+        "image": null,
+        "title": "Uproot X",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> can pull its roots from the ground and move freely. ",
+        "title_link": [
+            "Uproot",
+            "Uproot X",
+            "uproot"
+        ],
+        "title_EN": "uproot"
+    },
+    {
+        "image": null,
+        "title": "Vampiric",
+        "type": "Attack feature",
+        "text": "When this <a href='?q=attack'>attack</a> deals damage to a living <a href='?q=creature'>creature</a>, the <a href='?q=attack'>attack</a>er <a href='?q=heal'>heal</a>s (taking away damage) for half the damage dealt (rounding up). ",
+        "title_link": [
+            "vampiric",
+            "Vampiric"
+        ],
+        "title_EN": "vampiric"
+    },
+    {
+        "image": null,
+        "title": "V’Tar",
+        "type": "Supremacy concept",
+        "text": "This is the raw, unaltered power of the Plane of Voltari. ",
+        "title_link": [
+            "V’Tar"
+        ],
+        "title_EN": "V'Tar"
+    },
+    {
+        "image": null,
+        "title": "V’Tar Orb",
+        "type": "Supremacy concept",
+        "text": "The V'Tar Orbs are the key to powering the ancient V'Torrak artifact. <br>The balls are represented by double-sided <a href='?q=marker'>marker</a>s.  <br>The balls start the game “neutral” and no player controls them. <br>Orbs cannot be <a href='?q=destroyed'>destroyed</a>. ",
+        "title_link": [
+            "V’Tar Orb"
+        ],
+        "title_EN": "V'Tar orb"
+    },
+    {
+        "image": null,
+        "title": "V’Torrak artifact",
+        "type": "Special tiles",
+        "text": "This zone contains a long-standing V'Torrak artifact that can break the boundaries between worlds and provide its controller with near-infinite mana. <br>Note: If this zone part loses its special ability (perhaps because a terrain spell replaces its <a href='?q=effect'>effect</a>), the V'Torrak artifact is then considered \"buried under this zone\" and the player who collects enough V'Tar still wins the game. <br>Placement Tip: The V'Torrak works well if you place it near zones with V'Tar spheres. ",
+        "title_link": [
+            "V’Torrak artifact"
+        ],
+        "title_EN": "V'Torrak artifact"
+    },
+    {
+        "image": null,
+        "title": "Wall",
+        "type": "Game term",
+        "text": "Ramparts are special types of <a href='?q=incantation'>incantation</a>s that are printed in landscape format. <br><a href='?q=Passage blocked'>Passage blocked</a><br><a href='?q=Attack on passage'>Attack on passage</a><br><a href='?q=Blocks Line of Sight (SL)'>Blocks Line of Sight (SL)</a><br><a href='?q=expansion'>expansion</a><br>If the wall does not have the Attack on Passage or Passage Blocking symbol, <a href='?q=creature'>creature</a>s can simply move through it.<br>Attack walls<br>A <a href='?q=creature'>creature</a> in either zone adjacent to a wall may make a melee <a href='?q=attack'>attack</a> on that wall. ",
+        "title_link": [
+            "Wall"
+        ],
+        "title_EN": "wall"
+    },
+    {
+        "image": "WaterDamage.png",
+        "title": "Water +/-X",
+        "type": "Attack feature",
+        "text": "A type of damage. ",
+        "title_link": [
+            "Water",
+            "Water +",
+            "Water -",
+            "Water +/-X"
+        ],
+        "title_EN": "water +/-X"
+    },
+    {
+        "image": "Weak.png",
+        "title": "Weak",
+        "type": "Condition tiles",
+        "text": "A poisonous condition that <a href='?q=weak'>weak</a>ens a <a href='?q=creature'>creature</a>. ",
+        "title_link": [
+            "weak",
+            "Weak"
+        ],
+        "title_EN": "weak"
+    },
+    {
+        "image": "WindDamage.png",
+        "title": "Wind +/-X",
+        "type": "Attack feature",
+        "text": "A type of damage. ",
+        "title_link": [
+            "wind",
+            "Wind +/-X",
+            "Wind +",
+            "wind -"
+        ],
+        "title_EN": "wind +/-X"
+    },
+    {
+        "image": null,
+        "title": "Wipe out",
+        "type": "effect",
+        "text": "When you <a href='?q=wipe out'>wipe out</a> an <a href='?q=object'>object</a>, it is permanently <a href='?q=destroyed'>destroyed</a> without a trace. ",
+        "title_link": [
+            "Wipe out",
+            "wipe out",
+            "extinguish",
+            "wiped out"
+        ],
+        "title_EN": "extinguish"
+    },
+    {
+        "image": "Zone Attack.png",
+        "title": "Zone attack or zone spell",
+        "type": "Attack feature",
+        "text": "This <a href='?q=attack'>attack</a> or spell affects all <a href='?q=creature'>creature</a>s and <a href='?q=summon'>summon</a>s in the target zone without actually targeting them individually. <br><a href='?q=Zone attack'>Zone attack</a>s always target an entire zone, never an <a href='?q=object'>object</a>. <br>In Step 3: Missed Roll, you roll a zone <a href='?q=attack'>attack</a> only once to see if it misses the zone;  ",
+        "title_link": [
+            "Zone attack or zone spell",
+            "Zone attack",
+            "Zone spells"
+        ],
+        "title_EN": "zone attack or zone spell"
+    },
+    {
+        "image": null,
+        "title": "Zone control",
+        "type": "Game term",
+        "text": "A player controls a zone if they control a <a href='?q=creature'>creature</a> in that zone and their opponent controls none. ",
+        "title_link": [
+            "Zone control"
+        ],
+        "title_EN": "zone control"
+    },
+    {
+        "image": null,
+        "title": "Zone edge",
+        "type": "Game term",
+        "text": "The dividing line between two adjacent zones. ",
+        "title_link": [
+            "Zone edge"
+        ],
+        "title_EN": "zone border"
+    },
+    {
+        "image": null,
+        "title": "Zone unique",
+        "type": "Object feature",
+        "text": "There can never be more than 1 zone-<a href='?q=unique'>unique</a> <a href='?q=summon'>summon</a> in each zone. ",
+        "title_link": [
+            "zone unique",
+            "Zone unique"
+        ],
+        "title_EN": "zone exclusive"
+    },
+    {
+        "image": "Armor.png",
+        "title": "armor",
+        "type": "Object attribute",
+        "text": "During an <a href='?q=attack'>attack</a>, <a href='?q=armor'>armor</a> is subtracted from the normal damage of the <a href='?q=attack'>attack</a> dice. ",
+        "title_link": [
+            "armor"
+        ],
+        "title_EN": "armor"
+    },
+    {
+        "image": null,
+        "title": "attack",
+        "type": "Game term",
+        "text": "The #linked <a href='?q=attack'>attack</a> sequence table shows the different types of <a href='?q=attack'>attack</a>s in Mage Wars and their exact sequence. ",
+        "title_link": [
+            "attack",
+            "attack"
+        ],
+        "title_EN": "attack"
+    },
+    {
+        "image": null,
+        "title": "creature (spell)",
+        "type": "Sort of magic",
+        "text": "Creature spells <a href='?q=summon'>summon</a> a <a href='?q=creature'>creature</a> to fight for you in the arena until it is <a href='?q=destroyed'>destroyed</a>. ",
+        "title_link": [
+            "creature",
+            "creature (spell)"
+        ],
+        "title_EN": "creature"
+    },
+    {
+        "image": "Healing.png",
+        "title": "cure",
+        "type": "effect",
+        "text": "<a href='?q=Heal'>Heal</a>ing immediately removes a number of damage from the target. <br>Important: Only living <a href='?q=creature'>creature</a>s and <a href='?q=summon'>summon</a>s can be <a href='?q=heal'>heal</a>ed or regenerated. ",
+        "title_link": [
+            "cure",
+            "Heal",
+            "heal"
+        ],
+        "title_EN": "heal"
+    },
+    {
+        "image": null,
+        "title": "defender",
+        "type": "Game term",
+        "text": "A <a href='?q=creature'>creature</a> or <a href='?q=summon'>summon</a> that is being <a href='?q=attack'>attack</a>ed. ",
+        "title_link": [
+            "defender"
+        ],
+        "title_EN": "defender"
+    },
+    {
+        "image": "Defense.png",
+        "title": "defense",
+        "type": "Object attribute",
+        "text": "Some <a href='?q=object'>object</a>s have the Defense attribute, which represents the ability to avoid an <a href='?q=attack'>attack</a>. <br>The gold shield indicates the <a href='?q=defense'>defense</a> attribute. <br>Important: A <a href='?q=creature'>creature</a> may never use more than one <a href='?q=defense'>defense</a> against a single <a href='?q=attack'>attack</a> (even if it has multiple mandatory <a href='?q=enchantment'>enchantment</a>s, all of which must be revealed when it is <a href='?q=attack'>attack</a>ed)! ",
+        "title_link": [
+            "defense"
+        ],
+        "title_EN": "defense"
+    },
+    {
+        "image": null,
+        "title": "enchantment (spell)",
+        "type": "Game term",
+        "text": "Enchantments are different from all other types of spells because they are played face down. ",
+        "title_link": [
+            "enchantment",
+            "enchantment (spell)"
+        ],
+        "title_EN": "enchantment"
+    },
+    {
+        "image": null,
+        "title": "expansion",
+        "type": "Object feature",
+        "text": "When you <a href='?q=summon'>summon</a> such a wall, you may pay an additional cost equal to the wall's mana cost and <a href='?q=level'>level</a> when you cast the spell. ",
+        "title_link": [
+            "expansion"
+        ],
+        "title_EN": "extendable"
+    },
+    {
+        "image": null,
+        "title": "growth",
+        "type": "Condition tiles",
+        "text": "A <a href='?q=creature'>creature</a> with the Growth condition token has increased in size. ",
+        "title_link": [
+            "growth"
+        ],
+        "title_EN": "growth"
+    },
+    {
+        "image": null,
+        "title": "immunity",
+        "type": "Object feature",
+        "text": "This <a href='?q=object'>object</a> is immune to all <a href='?q=attack'>attack</a>s, damage, conditions, and <a href='?q=effect'>effect</a>s of the specified damage type, including <a href='?q=critical damage'>critical damage</a> and <a href='?q=direct damage'>direct damage</a>. ",
+        "title_link": [
+            "immunity"
+        ],
+        "title_EN": "immunity"
+    },
+    {
+        "image": null,
+        "title": "incantation (spell)",
+        "type": "Sort of magic",
+        "text": "A <a href='?q=summon'>summon</a> spell <a href='?q=summon'>summon</a>s an <a href='?q=object'>object</a> into the arena that remains in play until <a href='?q=destroyed'>destroyed</a>. ",
+        "title_link": [
+            "incantation",
+            "incantation (spell)"
+        ],
+        "title_EN": "conjuration"
+    },
+    {
+        "image": "Initiative.png",
+        "title": "initiative",
+        "type": "Game term",
+        "text": "Players take turns having the <a href='?q=initiative'>initiative</a>, which is indicated by the Initiative tile. ",
+        "title_link": [
+            "initiative"
+        ],
+        "title_EN": "initiative"
+    },
+    {
+        "image": "guard.png",
+        "title": "keep watch",
+        "type": "Game term",
+        "text": "As a swift action, a <a href='?q=creature'>creature</a> can choose to stand guard to protect its zone and gain the <a href='?q=counter'>counter</a>strike trait. <br>- Counter Strike: As long as the <a href='?q=creature'>creature</a> is on guard, all of its quick melee <a href='?q=attack'>attack</a>s have the Counter Strike trait.<br>- Protect<a href='?q= Zone'> Zone</a>: If a <a href='?q=creature'>creature</a> is in a zone with one or more enemies standing guard, it may not make a melee <a href='?q=attack'>attack</a> against an <a href='?q=object'>object</a> without a guard token. <br>Only melee <a href='?q=attack'>attack</a>s are affected. <br>Use guards<br>Keeping Guard allows you to protect important <a href='?q=creature'>creature</a>s or <a href='?q=summon'>summon</a>s. <br>Remove guards<br>If a guard is the target of a melee <a href='?q=attack'>attack</a>, you must remove their guard tile as soon as the <a href='?q=attack'>attack</a> ends at the end of Step 8: Counter Strike - even if the <a href='?q=attack'>attack</a> did not hit. ",
+        "title_link": [
+            "keep watch"
+        ],
+        "title_EN": "guarding"
+    },
+    {
+        "image": null,
+        "title": "level",
+        "type": "Magic attribute",
+        "text": "All spells have a <a href='?q=level'>level</a>, which is printed as a small number next to that spell's school. ",
+        "title_link": [
+            "level"
+        ],
+        "title_EN": "level"
+    },
+    {
+        "image": null,
+        "title": "mage",
+        "type": "Game term",
+        "text": "This <a href='?q=creature'>creature</a> is a mage, and it represents the player in the game. The mage can gather mana, cast spells, and can perform a special quick cast action each round. ",
+        "title_link": [
+            "mage"
+        ],
+        "title_EN": "mage"
+    },
+    {
+        "image": null,
+        "title": "marker",
+        "type": "Game term",
+        "text": "A <a href='?q=marker'>marker</a> is a small marking chip that is intended to remind you of certain things. ",
+        "title_link": [
+            "marker"
+        ],
+        "title_EN": "token"
+    },
+    {
+        "image": null,
+        "title": "novice",
+        "type": "Magic feature",
+        "text": "Basic apprentice spells. ",
+        "title_link": [
+            "novice"
+        ],
+        "title_EN": "novice"
+    },
+    {
+        "image": null,
+        "title": "object",
+        "type": "Game term",
+        "text": "Enchantments, <a href='?q=equipment'>equipment</a>, <a href='?q=creature'>creature</a>s, and <a href='?q=summon'>summon</a>s are spells that become <a href='?q=object'>object</a>s in play and that remain in play after they are cast. ",
+        "title_link": [
+            "object"
+        ],
+        "title_EN": "object"
+    },
+    {
+        "image": null,
+        "title": "swarm",
+        "type": "Object feature",
+        "text": "This <a href='?q=creature'>creature</a> is made up of countless smaller <a href='?q=creature'>creature</a>s. ",
+        "title_link": [
+            "swarm",
+            "Hive creature"
+        ],
+        "title_EN": "swarm"
+    },
+    {
+        "image": null,
+        "title": "trap",
+        "type": "Game term",
+        "text": "An <a href='?q=enchantment'>enchantment</a> that triggers when an enemy enters the zone. <br>Some <a href='?q=enchantment'>enchantment</a>s have the Trap subtype. <br>The <a href='?q=trap'>trap</a> is triggered when an opposing <a href='?q=creature'>creature</a> enters the zone through a move action, push, or teleport. <br>The <a href='?q=trap'>trap</a> is executed immediately after the <a href='?q=creature'>creature</a> is placed in the zone. <br>You can place any number of <a href='?q=trap'>trap</a>s in the same zone as long as they have different names. <br>If the <a href='?q=trap'>trap</a> spell (like other mandatory <a href='?q=enchantment'>enchantment</a>s) is revealed by an <a href='?q=effect'>effect</a> or property other than when an opponent enters the zone, the <a href='?q=trap'>trap</a> is <a href='?q=destroyed'>destroyed</a> without <a href='?q=effect'>effect</a>.<br>Only opposing <a href='?q=creature'>creature</a>s can trigger a <a href='?q=trap'>trap</a> spell, and it must trigger immediately when the <a href='?q=creature'>creature</a> enters the zone.",
+        "title_link": [
+            "trap"
+        ],
+        "title_EN": "trap"
+    },
+    {
+        "image": null,
+        "title": "trick",
+        "type": "Object feature",
+        "text": "Whenever this spell is <a href='?q=destroyed'>destroyed</a> or discarded, it is returned to its owner's spellbook instead of the discard pile.",
+        "title_link": [
+            "trick"
+        ],
+        "title_EN": "cantrip"
+    },
+    {
+        "image": null,
+        "title": "zombie",
+        "type": "Condition tiles",
+        "text": "This <a href='?q=creature'>creature</a> was resurrected from death. ",
+        "title_link": [
+            "zombie"
+        ],
+        "title_EN": "zombie"
+    }
+]

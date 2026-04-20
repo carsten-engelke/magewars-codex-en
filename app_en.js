@@ -45,7 +45,7 @@ function updateCards(list) {
         }
             var container = document.createElement("div")
             container.className = "container";
-            container.innerHTML = "<h4><b>" + obj.title + " <p style=\"color:Gray;\">(" + obj.title_EN + ")</p></b></h4>"+
+            container.innerHTML = "<h4><b>" + obj.title + </b></h4>"+
             "<h5>" + obj.type + "</h5><p>" + obj.text + "</p>";
             card.appendChild(container);
        
